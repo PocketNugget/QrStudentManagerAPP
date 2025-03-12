@@ -39,6 +39,8 @@ android {
 }
 
 dependencies {
+    //ML Kit for scanning QR
+    implementation(libs.mlkit.barcode.scanning)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
