@@ -29,6 +29,10 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".ScannQR"
+            android:exported="true"/> <!--Cambiar posteriormente puras pruebas-->
+
     </application>
 
 </manifest>

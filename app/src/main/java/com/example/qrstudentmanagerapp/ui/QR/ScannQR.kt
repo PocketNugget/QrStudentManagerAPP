@@ -1,3 +1,4 @@
+package com.example.qrstudentmanagerapp
 import android.Manifest
 import android.content.pm.PackageManager
 import android.os.Bundle
@@ -18,8 +19,9 @@ class ScannQR : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        previewView = PreviewView(this)
-        setContentView(previewView)
+        setContentView(R.layout.activity_scann_qr)
+
+        previewView = findViewById(R.id.previewView)
 
         if (allPermissionsGranted()) {
             startCamera()
