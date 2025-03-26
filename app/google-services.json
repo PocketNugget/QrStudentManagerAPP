@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881243197673",
+    "project_id": "qr-management-a8475",
+    "storage_bucket": "qr-management-a8475.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881243197673:android:c9947c504fdf0b0a792078",
+        "android_client_info": {
+          "package_name": "com.example.qrstudentmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOInQKUUTAcztY0QVVwy5uRjzfybqcpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
