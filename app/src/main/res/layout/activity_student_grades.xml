@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Ver Calificaciones del Alumno
+
+    Muestra una lista de materias y las calificaciones correspondientes.
+    Usa RecyclerView o ListView según la implementación.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:padding="16dp"
     android:layout_width="match_parent"

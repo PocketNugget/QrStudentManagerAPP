@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Dashboard del Alumno
+
+    Pantalla principal para alumnos.
+    Ofrece accesos para generar su código QR de asistencia,
+    ver calificaciones y consultar su horario.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:padding="16dp"

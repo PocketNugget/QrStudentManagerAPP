@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Splash Screen
+
+    Pantalla de carga inicial. Revisa si hay una sesión activa con Firebase Authentication.
+    Si la hay, recupera el rol del usuario y redirige al dashboard correspondiente.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:background="@color/white"
     android:layout_width="match_parent"

@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Horario del Profesor
+
+    Muestra el horario de clases del profesor con base en las materias que tiene asignadas.
+    Usa un ListView para presentar los datos.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"

@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Gestión de Roles de Usuario
+
+    Permite al administrador asignar o cambiar el rol de un usuario
+    existente (profesor, alumno o administrador), buscando por correo electrónico.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:padding="16dp"
     android:orientation="vertical"

@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Horario del Alumno
+
+    Presenta el horario de clases del alumno en formato de lista,
+    mostrando materias y horarios asignados.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:padding="16dp"
     android:layout_width="match_parent"
