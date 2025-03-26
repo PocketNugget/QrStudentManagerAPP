@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+    Pantalla de Login
+
+    Esta pantalla permite al usuario iniciar sesión con su correo electrónico y contraseña
+    utilizando Firebase Authentication. Según el rol del usuario, será redirigido
+    a la pantalla correspondiente (Administrador, Profesor o Alumno).
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:gravity="center"

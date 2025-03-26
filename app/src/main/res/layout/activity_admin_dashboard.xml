@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Dashboard del Administrador
+
+    Pantalla principal para usuarios con rol de administrador.
+    Permite cambiar el tipo de usuario (profesor/alumno) y crear nuevas materias,
+    asignando profesores y alumnos a ellas.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:padding="16dp"
     android:layout_width="match_parent"

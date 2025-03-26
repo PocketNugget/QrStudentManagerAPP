@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Dashboard del Profesor
+
+    Pantalla principal para profesores.
+    Ofrece accesos para escanear el QR de asistencia de alumnos,
+    asignar calificaciones y consultar su horario de clases.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:padding="16dp"

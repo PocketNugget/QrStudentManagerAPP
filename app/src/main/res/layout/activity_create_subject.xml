@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Crear Materia
+
+    Pantalla donde el administrador puede ingresar el nombre y código de una materia,
+    asignar un profesor y seleccionar alumnos inscritos.
+    Al guardar, se crea el registro en Firebase.
+-->
+
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:padding="16dp"
     android:layout_width="match_parent"

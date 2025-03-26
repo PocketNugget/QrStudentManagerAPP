@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Generar Código QR
+
+    El alumno genera un código QR único para registrar su asistencia en clase.
+    Este código será escaneado por el profesor desde su app.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:gravity="center"
